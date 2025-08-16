@@ -19,9 +19,3 @@ Here are some of the technologies I'm proficient in:
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-[![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiitt001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
