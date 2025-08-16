@@ -19,5 +19,8 @@ Here are some of the technologies I'm proficient in:
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
+</p>
+
+
 ### Certifications & Badges
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost_Profile-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/64a17139-5b17-4466-b1de-a99dfc7d2564)
