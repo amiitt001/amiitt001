@@ -24,3 +24,16 @@ Here are some of the technologies I'm proficient in:
 
 ### Certifications & Badges
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost_Profile-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/64a17139-5b17-4466-b1de-a99dfc7d2564)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amiitt001&show_icons=true&theme=radical" alt="Amit's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitt001&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical" alt="GitHub Streak"/>
+</p>
+
