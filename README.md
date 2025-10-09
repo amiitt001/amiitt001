@@ -26,7 +26,10 @@ Here are some of the technologies I'm proficient in:
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost_Profile-4285F4?style=for-the-badge&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/64a17139-5b17-4466-b1de-a99dfc7d2564)
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
 
