@@ -30,10 +30,3 @@ Here are some of the technologies I'm proficient in:
   <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
-</p>
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical" alt="GitHub Streak"/>
-</p>
-
