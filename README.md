@@ -20,19 +20,6 @@ I don't treat projects as trophies — I treat them as **experiments, systems, a
 
 ---
 
-## 🧠 What I Work On
-
-- 🤖 **Generative AI systems** — Vertex AI, Gemini, prompt workflows
-- ⚙️ **Backend APIs** — Node.js, Express, TypeScript
-- ☁️ **Cloud-native deployments** — GCP, Cloud Run, Firestore
-- 📦 **Dockerized services & CI/CD** — GitHub Actions, nginx
-- 🔧 **Automation & orchestration** — n8n, scripting, tooling
-- 🧠 **ML & Computer Vision** — PyTorch, YOLOv8, MobileNetV2
-
-My repositories reflect **breadth + depth**, not one-off demos.
-
----
-
 
 ## 🧠 What I Work On
 
