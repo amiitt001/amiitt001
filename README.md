@@ -34,6 +34,37 @@ My repositories reflect **breadth + depth**, not one-off demos.
 ---
 
 ## 🛠️ Tech Stack (Depth > Hype)
+# Hi there, I'm Amit Verma! 👋
+> B.Tech CSE · 2nd Year @ Galgotias College · Backend • AI • Cloud • DevOps
+
+---
+
+## 👨‍💻 About Me
+
+I'm a CS undergraduate focused on building **AI-powered, production-ready backend systems**.
+
+I don't treat projects as trophies — I treat them as **experiments, systems, and learning surfaces**.
+
+- 🎓 Galgotias College of Engineering & Technology (Class of 2028)
+- 👥 Coordinator @ **GFG Club** & **LOOP Tech Club**
+- 🧩 Strong focus on **backend + AI integration**
+
+---
+
+## 🧠 What I Work On
+
+- 🤖 **Generative AI systems** — Vertex AI, Gemini, prompt workflows
+- ⚙️ **Backend APIs** — Node.js, Express, TypeScript
+- ☁️ **Cloud-native deployments** — GCP, Cloud Run, Firestore
+- 📦 **Dockerized services & CI/CD** — GitHub Actions, nginx
+- 🔧 **Automation & orchestration** — n8n, scripting, tooling
+- 🧠 **ML & Computer Vision** — PyTorch, YOLOv8, MobileNetV2
+
+My repositories reflect **breadth + depth**, not one-off demos.
+
+---
+
+## 🛠️ Tech Stack (Depth > Hype)
 
 **Languages**
 
@@ -44,8 +75,6 @@ My repositories reflect **breadth + depth**, not one-off demos.
 
 **Backend & Cloud**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -122,6 +151,15 @@ Automation and workflow orchestration system built with **n8n**. Connects extern
   <a href="https://www.linkedin.com/in/amiitt001/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Learning in public · Building systems · Shipping consistently</sub>
+</p>  </a>
   &nbsp;
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
