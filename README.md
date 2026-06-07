@@ -131,7 +131,7 @@ Automation and workflow orchestration system built with **n8n**. Connects extern
   <sub>Learning in public · Building systems · Shipping consistently</sub>
 </p>  </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:amit.24gcebcs053@galgotiacollege.edu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
