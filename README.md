@@ -33,23 +33,6 @@ My repositories reflect **breadth + depth**, not one-off demos.
 
 ---
 
-## 🛠️ Tech Stack (Depth > Hype)
-# Hi there, I'm Amit Verma! 👋
-> B.Tech CSE · 2nd Year @ Galgotias College · Backend • AI • Cloud • DevOps
-
----
-
-## 👨‍💻 About Me
-
-I'm a CS undergraduate focused on building **AI-powered, production-ready backend systems**.
-
-I don't treat projects as trophies — I treat them as **experiments, systems, and learning surfaces**.
-
-- 🎓 Galgotias College of Engineering & Technology (Class of 2028)
-- 👥 Coordinator @ **GFG Club** & **LOOP Tech Club**
-- 🧩 Strong focus on **backend + AI integration**
-
----
 
 ## 🧠 What I Work On
 
