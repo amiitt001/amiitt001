@@ -122,15 +122,6 @@ Automation and workflow orchestration system built with **n8n**. Connects extern
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Learning in public · Building systems · Shipping consistently</sub>
-</p>  </a>
-  &nbsp;
   <a href="mailto:amit.24gcebcs053@galgotiacollege.edu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -138,4 +129,5 @@ Automation and workflow orchestration system built with **n8n**. Connects extern
 
 <p align="center">
   <sub>Learning in public · Building systems · Shipping consistently</sub>
-</p>
+</p>  </a>
+
