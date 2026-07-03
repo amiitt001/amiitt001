@@ -78,6 +78,12 @@ My repositories reflect **breadth + depth**, not one-off demos.
 
 ## 📂 Selected Work
 
+### 🟢 [DG-AI](https://github.com/amiitt001/DG-AI)
+DG-AI is an AI-powered productivity companion that transforms deadlines into executable plans.
+> `TypeScript` `Dart` `Gemini AI` `Firestore` `Docker` `Cloud Run`
+
+---
+
 ### 🔵 [SkillSphere](https://github.com/amiitt001/SkillSphere)
 AI-powered career guidance system built with **Gemini / Vertex AI + Node.js + Firestore**. Analyzes a user's current skills, maps learning gaps, and generates personalized roadmaps. Deployed on **GCP Cloud Run** with Dockerized backend.
 > `Node.js` `TypeScript` `Vertex AI` `Firestore` `Docker` `Cloud Run`
