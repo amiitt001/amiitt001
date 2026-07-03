@@ -79,7 +79,7 @@ My repositories reflect **breadth + depth**, not one-off demos.
 ## 📂 Selected Work
 
 ### 🟢 [DG-AI](https://github.com/amiitt001/DG-AI)
-DG-AI is an AI-powered productivity companion that transforms deadlines into executable plans.
+DG-AI is an AI-powered productivity companion that transforms deadlines into executable plans.Instead of sending passive notifications, DG-AI analyzes task complexity, energy requirements, user productivity patterns, and calendar availability to proactively generate actionable schedules, predict delivery risks, and recommend dynamic recovery plans.
 > `TypeScript` `Dart` `Gemini AI` `Firestore` `Docker` `Cloud Run`
 
 ---
