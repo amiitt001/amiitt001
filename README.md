@@ -1,139 +1,310 @@
-<!-- HEADER -->
+<h1 align="center">Hi, I'm Amit Verma 👋🤖</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Amit%20Verma&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer%20•%20AI%20Systems%20Builder&descAlign=50&descAlignY=58" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+AI+Builder+🤖;Building+Multi-Agent+AI+Systems;Python+%7C+TypeScript+%7C+Cloud;Turning+Ideas+into+Production+Systems+⚙️" alt="Typing SVG" />
 </p>
 
-# Hi there, I'm Amit Verma! 👋
-> B.Tech CSE · 3rd Year @ Galgotias College · Backend • AI • Cloud • DevOps
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a CS undergraduate focused on building **AI-powered, production-ready backend systems**.
+I'm a **Computer Science undergraduate** focused on building **AI-powered backend systems, intelligent agents, and cloud-native applications**.
 
-I don't treat projects as trophies — I treat them as **experiments, systems, and learning surfaces**.
+I enjoy going beyond simple API integrations — designing systems where AI agents, APIs, databases, automation, and infrastructure work together as one product.
 
-- 🎓 Galgotias College of Engineering & Technology (Class of 2028)
-- 👥 Coordinator @ **GFG Club** & **LOOP Tech Club**
-- 🧩 Strong focus on **backend + AI integration**
-
----
-
-
-## 🧠 What I Work On
-
-- 🤖 **Generative AI systems** — Vertex AI, Gemini, prompt workflows
-- ⚙️ **Backend APIs** — Node.js, Express, TypeScript
-- ☁️ **Cloud-native deployments** — GCP, Cloud Run, Firestore
-- 📦 **Dockerized services & CI/CD** — GitHub Actions, nginx
-- 🔧 **Automation & orchestration** — n8n, scripting, tooling
-- 🧠 **ML & Computer Vision** — PyTorch, YOLOv8, MobileNetV2
-
-My repositories reflect **breadth + depth**, not one-off demos.
+* 🎓 B.Tech CSE — Galgotias College of Engineering & Technology
+* 📅 Class of 2028 · 2nd Year · 3rd Semester
+* 🤖 Focused on **AI Agents, Backend Engineering & Cloud**
+* 🐍 Python + TypeScript are my primary development languages
+* ☁️ Building and deploying applications on **Google Cloud**
+* 👥 Coordinator @ **GFG Club** & **LOOP Tech Club**
+* 🧠 Currently strengthening **DSA, system design, backend architecture & ML**
 
 ---
 
-## 🛠️ Tech Stack (Depth > Hype)
+## 🧠 What I Build
 
-**Languages**
+```text
+AI Agents
+    ↓
+Backend APIs
+    ↓
+Data & Databases
+    ↓
+Cloud Infrastructure
+    ↓
+Automation & Deployment
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+My main interests:
 
-**Backend & Cloud**
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Tools & Practices**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA_(C++)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+* 🤖 Multi-Agent AI Systems
+* 🧠 Generative AI & LLM Applications
+* ⚙️ Backend APIs & System Architecture
+* ☁️ Cloud-Native Applications
+* 🐳 Docker & CI/CD
+* 🔄 Workflow Automation
+* 👁️ Computer Vision
+* 📊 Data Structures & Algorithms
 
 ---
 
-## 🧠 Current Technical Focus
+## 🛠️ My Toolbox
 
-- Backend architecture & API design
-- Generative AI workflows & prompt engineering
-- Dockerized microservices
-- CI/CD with GitHub Actions
-- Cost-aware cloud deployments (GCP)
-- Data Structures & Algorithms in C++
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Selected Work
+## 🔥 Featured Projects
 
-### 🟢 [DG-AI](https://github.com/amiitt001/DG-AI)
-DG-AI is an AI-powered productivity companion that transforms deadlines into executable plans.Instead of sending passive notifications, DG-AI analyzes task complexity, energy requirements, user productivity patterns, and calendar availability to proactively generate actionable schedules, predict delivery risks, and recommend dynamic recovery plans.
-> `TypeScript` `Dart` `Gemini AI` `Firestore` `Docker` `Cloud Run`
+### 🤖 ADK Hiring Agent
+
+**Multi-agent AI system for automated technical candidate evaluation.**
+
+Built with Google's **Agent Development Kit (ADK)** and Gemini, the system uses specialized agents to evaluate candidates from a job description through a final **HIRE / NO HIRE** recommendation.
+
+**Agent Architecture:**
+
+```text
+                    Root Orchestrator
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+    Rubric Builder   Resume Reviewer   GitHub Validator
+                                             │
+                                             ↓
+                                      GitHub Reviewer
+                                             │
+                                             ↓
+                                    Verdict Synthesizer
+```
+
+**Highlights**
+
+* 🤖 5 specialized AI agents
+* 🧠 Google ADK orchestration
+* ✨ Gemini-powered reasoning
+* 🐙 Live GitHub API analysis
+* 📄 Resume evaluation
+* 📊 Structured candidate scoring
+* ⚖️ Automated HIRE / NO HIRE verdict
+* 🐳 Dockerized application
+
+`Python` `Google ADK` `Gemini` `GitHub API` `Multi-Agent AI` `Docker`
+
+🔗 **[View Repository](https://github.com/amiitt001/adk-hiring-agent)**
 
 ---
 
-### 🔵 [SkillSphere](https://github.com/amiitt001/SkillSphere)
-AI-powered career guidance system built with **Gemini / Vertex AI + Node.js + Firestore**. Analyzes a user's current skills, maps learning gaps, and generates personalized roadmaps. Deployed on **GCP Cloud Run** with Dockerized backend.
-> `Node.js` `TypeScript` `Vertex AI` `Firestore` `Docker` `Cloud Run`
+### 🟢 DG-AI
+
+**AI-powered productivity and deadline management system.**
+
+DG-AI turns deadlines into executable plans instead of simply sending reminders.
+
+It analyzes tasks, deadlines, workload, calendar constraints, and productivity patterns to identify risks and generate actionable recovery plans.
+
+**Highlights**
+
+* 🧠 AI task parsing
+* 📅 Calendar intelligence
+* ⚠️ Deadline risk engine
+* 🎯 Intelligent prioritization
+* 🤖 AI planning agent
+* 🚨 Rescue / recovery planning
+* 🐳 Dockerized architecture
+* ☁️ Cloud deployment
+
+`TypeScript` `Gemini` `Prisma` `Firestore` `Docker` `Cloud Run`
+
+🔗 **[View Repository](https://github.com/amiitt001/DG-AI)**
 
 ---
 
-### 🟣 [Dogs-Vs-Cat-Detection](https://github.com/amiitt001/Dogs-Vs-Cat-detection)
-Hybrid deep learning pipeline combining **YOLOv8** for real-time animal localization and a **fine-tuned MobileNetV2 CNN** for accurate cat/dog classification. YOLO finds the bounding boxes; MobileNetV2 refines the label — yielding higher accuracy than either model alone.
-> `Python` `PyTorch` `YOLOv8` `MobileNetV2` `OpenCV` `Colab`
+### 🔵 SkillSphere
+
+**AI-powered career guidance platform for students.**
+
+Analyzes user skills and resumes to identify gaps, recommend career paths, and generate personalized learning guidance.
+
+`TypeScript` `Node.js` `Gemini` `Vertex AI` `Firestore` `Docker`
+
+🔗 **[View Repository](https://github.com/amiitt001/SkillSphere)**
 
 ---
 
-### 🟠 [QR Code Generator & PDF Converter](https://github.com/amiitt001/llc)
-100% **client-side** TypeScript web app — no server, no data sent anywhere. Generates QR codes and converts documents to PDF entirely in the browser. Privacy-first by design. **15 production deployments** on Vercel.
-> `TypeScript` `Vite` `Vercel` `Client-side only`
+### 🐱🐶 Dogs vs Cats Detection
+
+Hybrid computer vision pipeline combining **YOLOv8** for object localization with a fine-tuned **MobileNetV2 CNN** for classification.
+
+```text
+Image
+  ↓
+YOLOv8
+  ↓
+Animal Bounding Box
+  ↓
+MobileNetV2
+  ↓
+Cat / Dog Classification
+```
+
+`Python` `PyTorch` `YOLOv8` `MobileNetV2` `OpenCV`
+
+🔗 **[View Repository](https://github.com/amiitt001/Dogs-Vs-Cat-detection)**
 
 ---
 
-### 🟢 [Exam Management System](https://github.com/amiitt001/Exam-Management-System)
-Python backend system for managing exams, student records, and results. Built with a relational database layer and clean CRUD architecture. Designed for real institutional use, not just as a demo.
-> `Python` `SQLite/PostgreSQL` `REST API` `Backend`
+### ⚡ QR Code Generator & PDF Converter
+
+Privacy-focused client-side application that generates QR codes and converts documents to PDF directly in the browser.
+
+`TypeScript` `Vite` `Client-side` `Vercel`
+
+🔗 **[View Repository](https://github.com/amiitt001/llc)**
 
 ---
 
-### 🔴 [technova-n8n](https://github.com/amiitt001/technova-n8n)
-Automation and workflow orchestration system built with **n8n**. Connects external APIs, handles multi-step data pipelines, and automates repetitive processes — demonstrating practical DevOps and tooling skills beyond just code.
-> `n8n` `Automation` `Webhooks` `Workflow Orchestration`
+## 📚 DSA Journey — C++
+
+Currently grinding **Data Structures & Algorithms in C++** to strengthen problem-solving and algorithmic thinking.
+
+**Focus areas:**
+
+`Arrays` · `Binary Search` · `Hash Tables` · `Sliding Window` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/amiitt001?theme=dark&font=baloo2&ext=heatmap" alt="amiitt001 LeetCode Stats" />
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/amiitt001/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amiitt001&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiitt001&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amiitt001&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiitt001&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🎯 Current Focus — 2026
+
+```python
+focus = [
+    "AI Agents",
+    "Backend Engineering",
+    "FastAPI",
+    "System Design",
+    "Cloud & DevOps",
+    "Machine Learning",
+    "Data Structures & Algorithms"
+]
+
+for skill in focus:
+    print(f"Building deeper: {skill} 🚀")
+```
+
+### Current Goals
+
+* [x] Build production-oriented AI applications
+* [x] Build a multi-agent AI system
+* [x] Integrate AI with real APIs and external data
+* [x] Deploy applications using Docker & Cloud
+* [ ] Go deeper into FastAPI & backend architecture
+* [ ] Strengthen DSA & competitive programming
+* [ ] Contribute to meaningful open-source projects
+* [ ] Build and deploy larger AI systems
 
 ---
 
 ## 🏅 Certifications & Community
 
-- ☁️ **Google Cloud Skills Boost** — [View Profile](https://www.cloudskillsboost.google/public_profiles/64a17139-5b17-4466-b1de-a99dfc7d2564)
-- 👥 Coordinator — **GFG Club** & **LOOP Tech Club** @ Galgotias
+* ☁️ **Google Cloud Skills Boost**
+* 👥 Coordinator — **GFG Club**
+* 👥 Coordinator — **LOOP Tech Club**
+* 🏆 Hackathon & AI project experience
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amiitt001/">
+  <a href="https://www.linkedin.com/in/amiitt001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:amit.24gcebcs053@galgotiacollege.edu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>Learning in public · Building systems · Shipping consistently</sub>
-</p>  </a>
+  <img src="https://komarev.com/ghpvc/?username=amiitt001&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <sub>Building AI systems · Learning deeply · Shipping consistently</sub>
+</p>
