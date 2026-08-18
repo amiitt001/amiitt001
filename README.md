@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amit Verma 👋🤖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+AI+Builder+🤖;Building+Multi-Agent+AI+Systems;Python+%7C+TypeScript+%7C+Cloud;Turning+Ideas+into+Production+Systems+⚙️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+AI+Builder+%F0%9F%A4%96;Building+Multi-Agent+AI+Systems;Python+%7C+TypeScript+%7C+Cloud;Turning+Ideas+into+Production+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I enjoy going beyond simple API integrations — designing systems where AI agen
 * 🐍 Python + TypeScript are my primary development languages
 * ☁️ Building and deploying applications on **Google Cloud**
 * 👥 Coordinator @ **GFG Club** & **LOOP Tech Club**
-* 🧠 Currently strengthening **DSA, system design, backend architecture & ML**
+* 🧠 Currently strengthening **backend architecture, ML, system design & DSA**
 
 ---
 
@@ -176,6 +176,15 @@ It analyzes tasks, deadlines, workload, calendar constraints, and productivity p
 
 Analyzes user skills and resumes to identify gaps, recommend career paths, and generate personalized learning guidance.
 
+**Highlights**
+
+* 🎯 AI career recommendations
+* 📄 Resume analysis
+* 🧠 Skill-gap analysis
+* 📚 Personalized learning paths
+* 🤖 AI-powered career assistance
+* ☁️ Cloud deployment
+
 `TypeScript` `Node.js` `Gemini` `Vertex AI` `Firestore` `Docker`
 
 🔗 **[View Repository](https://github.com/amiitt001/SkillSphere)**
@@ -208,29 +217,70 @@ Cat / Dog Classification
 
 Privacy-focused client-side application that generates QR codes and converts documents to PDF directly in the browser.
 
+No backend is required and files can be processed entirely on the client.
+
 `TypeScript` `Vite` `Client-side` `Vercel`
 
 🔗 **[View Repository](https://github.com/amiitt001/llc)**
 
 ---
 
-## 📚 DSA Journey — C++
+### 🏫 Exam Management System
 
-Currently grinding **Data Structures & Algorithms in C++** to strengthen problem-solving and algorithmic thinking.
+Backend application for managing examinations, student records, and results using a structured CRUD architecture and relational database.
 
-**Focus areas:**
+`Python` `REST API` `SQLite` `PostgreSQL`
 
-`Arrays` · `Binary Search` · `Hash Tables` · `Sliding Window` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+🔗 **[View Repository](https://github.com/amiitt001/Exam-Management-System)**
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/amiitt001?theme=dark&font=baloo2&ext=heatmap" alt="amiitt001 LeetCode Stats" />
-</p>
+---
 
-<p align="left">
-  <a href="https://leetcode.com/u/amiitt001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+### ⚡ TechNova Automation
+
+Workflow automation system built with **n8n**, demonstrating API integration, webhooks, multi-step workflows, and automation of repetitive processes.
+
+`n8n` `Webhooks` `APIs` `Workflow Automation`
+
+🔗 **[View Repository](https://github.com/amiitt001/technova-n8n)**
+
+---
+
+## 🎯 Current Technical Focus
+
+```python
+focus = [
+    "AI Agents",
+    "Backend Engineering",
+    "FastAPI",
+    "System Design",
+    "Cloud & DevOps",
+    "Machine Learning",
+    "Data Structures & Algorithms"
+]
+
+for skill in focus:
+    print(f"Building deeper: {skill} 🚀")
+```
+
+Currently working on:
+
+* 🤖 Multi-agent AI architectures
+* ⚙️ Backend architecture & API design
+* 🐍 Python & FastAPI
+* 🧠 Generative AI systems
+* ☁️ Google Cloud & Cloud Run
+* 🐳 Docker & CI/CD
+* 🗄️ Database architecture
+* 📊 DSA in C++
+
+---
+
+## 🏅 Certifications & Community
+
+* ☁️ **Google Cloud Skills Boost**
+* 👥 Coordinator — **GFG Club**
+* 👥 Coordinator — **LOOP Tech Club**
+* 🏆 Hackathon & AI project experience
 
 ---
 
@@ -248,45 +298,6 @@ Currently grinding **Data Structures & Algorithms in C++** to strengthen problem
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiitt001&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-## 🎯 Current Focus — 2026
-
-```python
-focus = [
-    "AI Agents",
-    "Backend Engineering",
-    "FastAPI",
-    "System Design",
-    "Cloud & DevOps",
-    "Machine Learning",
-    "Data Structures & Algorithms"
-]
-
-for skill in focus:
-    print(f"Building deeper: {skill} 🚀")
-```
-
-### Current Goals
-
-* [x] Build production-oriented AI applications
-* [x] Build a multi-agent AI system
-* [x] Integrate AI with real APIs and external data
-* [x] Deploy applications using Docker & Cloud
-* [ ] Go deeper into FastAPI & backend architecture
-* [ ] Strengthen DSA & competitive programming
-* [ ] Contribute to meaningful open-source projects
-* [ ] Build and deploy larger AI systems
-
----
-
-## 🏅 Certifications & Community
-
-* ☁️ **Google Cloud Skills Boost**
-* 👥 Coordinator — **GFG Club**
-* 👥 Coordinator — **LOOP Tech Club**
-* 🏆 Hackathon & AI project experience
 
 ---
 
