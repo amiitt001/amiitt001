@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Amit Verma — Backend engineer and AI builder</title>
+  <desc id="desc">A dark engineering canvas with a connected diagram of agents, APIs, data, and cloud.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1d2938" stroke-width="1"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#72f5c4"/><stop offset="1" stop-color="#7aa9ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="#0b111b"/>
+  <rect width="1200" height="400" rx="20" fill="url(#grid)" opacity=".65"/>
+  <path d="M48 48H1152" stroke="#273444"/>
+  <circle cx="50" cy="27" r="4" fill="#72f5c4"/>
+  <g font-family="monospace" font-size="12" letter-spacing="2" fill="#9baec3">
+    <text x="65" y="31">AMIT / SYSTEMS LAB</text><text x="1000" y="31">BUILD · LEARN</text>
+  </g>
+  <text x="56" y="112" font-family="monospace" font-size="14" letter-spacing="3" fill="#72f5c4">BACKEND ENGINEER / AI BUILDER</text>
+  <text x="51" y="191" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="72" letter-spacing="-3" fill="#f1f5fc">Amit Verma.</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#aebdd0">
+    <text x="56" y="238">From intelligent agents</text><text x="56" y="270">to systems that work together.</text>
+  </g>
+  <path d="M56 307H570" stroke="#273444"/>
+  <text x="56" y="343" font-family="monospace" font-size="14" fill="#9baec3">PYTHON + TYPESCRIPT   /   GOOGLE CLOUD</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="M885 130V179M885 229V278M805 204H744V303H805M965 204H1026V303H965"/>
+  </g>
+  <g fill="#101c2b" stroke="#34465e">
+    <rect x="805" y="80" width="160" height="50" rx="8"/>
+    <rect x="805" y="179" width="160" height="50" rx="8" stroke="#72f5c4"/>
+    <rect x="665" y="278" width="160" height="50" rx="8"/>
+    <rect x="945" y="278" width="160" height="50" rx="8"/>
+    <rect x="845" y="278" width="80" height="50" rx="8"/>
+  </g>
+  <g text-anchor="middle" font-family="monospace" font-size="15" fill="#e0eaf7">
+    <text x="885" y="111">AI AGENTS</text><text x="885" y="210" fill="#72f5c4">BACKEND / API</text>
+    <text x="745" y="309">DATA</text><text x="885" y="309">JOBS</text><text x="1025" y="309">CLOUD</text>
+  </g>
+  <text x="885" y="362" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#8196af">IDEA → ARCHITECTURE → DEPLOYMENT</text>
+</svg>
